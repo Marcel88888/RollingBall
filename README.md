@@ -19,7 +19,8 @@ Project made for the subject Applications for Mobile Devices on the Universitat 
 * Ketai
 
 ## Setup
-The program can be run on Processing suing Java mode.
+## Setup
+The program can be run on Processing using Android mode. After running in Processing the app will be installed on your Android device.
 
 ## Features
 * moving the ball rotating a mobile phone
